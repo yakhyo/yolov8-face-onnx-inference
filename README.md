@@ -4,6 +4,10 @@
 [![Downloads](https://img.shields.io/github/downloads/yakhyo/yolov8-face-onnx-inference/total)](https://github.com/yakhyo/yolov8-face-onnx-inference/releases)
 [![GitHub License](https://img.shields.io/github/license/yakhyo/yolov8-face-onnx-inference)](https://github.com/yakhyo/yolov8-face-onnx-inference/blob/main/LICENSE)
 
+> [!TIP]
+> The models and functionality in this repository are **integrated into [UniFace](https://github.com/yakhyo/uniface)** — an all-in-one face analysis library.<br>
+> [![PyPI Version](https://img.shields.io/pypi/v/uniface.svg)](https://pypi.org/project/uniface/) [![GitHub Stars](https://img.shields.io/github/stars/yakhyo/uniface)](https://github.com/yakhyo/uniface/stargazers)
+
 Face detection with 5 facial landmarks using YOLOv8-Face ONNX Runtime inference.
 
 <p align="center">
